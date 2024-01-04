@@ -1,7 +1,7 @@
 # Coding-Raja-Technologies-Internship
 Python-based project developed during my internship, showcasing practical applications and solutions. Includes diverse functionalities and modules designed to address real-world challenges, demonstrating proficiency in Python programming and problem-solving skills.
 
-**1. Task 1:** [Task 1](https://github.com/RealAscarre/Coding-Raja-Technologies-Internship)
+**1. Task 1:** [Task 1](https://github.com/RealAscarre/Coding-Raja-Technologies-Internship/blob/main/Task1.py)
 ```
 Description: Develop a command-line to-do list application that allows users to manage tasks.
 
@@ -17,7 +17,7 @@ Tech Stack:
 2. File handling or a simple database library
 ```
 
-**2. Task 2:** [Task 2](https://github.com/RealAscarre/Coding-Raja-Technologies-Internship)
+**2. Task 2:** [Task 2](https://github.com/RealAscarre/Coding-Raja-Technologies-Internship/blob/main/Task2.py)
 ```
 Description: Develop a console-based budget tracker that allows users to manage their expenses and income.
 
